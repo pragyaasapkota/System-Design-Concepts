@@ -21,4 +21,8 @@ Hacktoberfest is digitalocean’s annual event that encourages people to contrib
 
 ### 1. Register for [Hactoberfest](https://hacktoberfest.com/) as a contributor
 
-### 2.
+### 2. Fork this repo and make the project available locally. Run the following command for that
+
+```git clone https://<username>/system-design-concepts-hacktoberfest2022
+
+```
