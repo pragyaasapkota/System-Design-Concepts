@@ -23,6 +23,10 @@ Hacktoberfest is digitalocean’s annual event that encourages people to contrib
 
 ### 2. Fork this repo and make the project available locally. Run the following command for that
 
-```git clone https://<username>/system-design-concepts-hacktoberfest2022
+`git clone https://<username>/system-design-concepts-hacktoberfest2022`
 
-```
+### 3. Create a branch for the changes
+
+`git checkout master`
+
+`git branch -M <branch_name>`
