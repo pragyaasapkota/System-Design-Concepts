@@ -54,3 +54,19 @@ You can follow the guidelines below: -
 ### 8. Give this project a star
 
 If you liked working on this project, please share this project as much as you can and star this project to help as many people in opensource as you can.
+
+## Note:
+
+1. Don't Create Pull Request to update "readme.md" File.
+
+2. Make a folder for your content and make your content limited to the folder only.
+
+3. Spammy Pull Requests will be marked spam and then closed.
+
+4. The topic should be under System Design Concepts. It might be even remotely related but no other than that.
+
+## If you have any queries regarding this, you can contact me (`CTRL+click` the link below): -
+
+- [Linkedin](https://www.linkedin.com/in/pragya-sapkota-83a38a191/)
+- [Twitter](https://twitter.com/PragyaSapkota15)
+- [Gmail](mailto:pragyasapkota2056@gmail.com)
