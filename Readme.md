@@ -11,4 +11,8 @@ Hacktober Fest 2022
 
 # Upload documentation of different System Design Concepts
 
-As github has welcomed people of low-code and non-code experience to contribute to open source. This is your stsrt.
+As github has welcomed people of low-code and non-code experience to contribute to open source. This is where you as a low-code contributors start. However, you still need to have some technical knowledge and adequate about the system design concepts.
+
+# What is Hacktoberfest?
+
+Hacktoberfest is digitalocean’s annual event that encourages people to contribute to open source throughout October. much of modern tech infrastructure—including some of digitalocean’S own products—relies on open-source projects built and maintained by passionate people who often don’t have the staff or budgets to do much more than keep the project alive. Hacktoberfest is all about giving back to those projects, sharpening skills, and celebrating all things open source, especially the people that make open source so special.
