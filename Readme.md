@@ -57,7 +57,7 @@ If you liked working on this project, please share this project as much as you c
 
 ## Note:
 
-1. Don't Create Pull Request to update "readme.md" or the "CONTRIBUTING.md" File.
+1. Don't Create Pull Request to update the original "readme.md" or the "CONTRIBUTING.md" File. The readme files inside the folders can be mainpulated if necessary.
 
 2. If you want to add corrections or design pictures or have a genuine update on the existing files, try it and if it is valid - will be accepted. But you need to make a new .md file inside the folder and add your content there.
 
