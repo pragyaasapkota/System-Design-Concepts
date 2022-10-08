@@ -67,7 +67,9 @@ If you liked working on this project, please share this project as much as you c
 
 5. The topic should be under System Design Concepts. It might be even remotely related but no other than that.
 
-## If you have any queries regarding this, you can contact me (`CTRL+click` the link below): -
+## If you have any queries regarding this, you can contact me: -
+
+(`CTRL+click` the link below)
 
 - [Linkedin](https://www.linkedin.com/in/pragya-sapkota-83a38a191/)
 - [Twitter](https://twitter.com/PragyaSapkota15)
