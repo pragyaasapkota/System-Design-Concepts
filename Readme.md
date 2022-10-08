@@ -75,7 +75,7 @@ If you liked working on this project, please share this project as much as you c
 - [Twitter](https://twitter.com/PragyaSapkota15)
 - [Gmail](mailto:pragyasapkota2056@gmail.com)
 
-## To view my personal blogs, visit the [Portfolio](https://github.com/Pragya2056/Portfolio) repo on my github profile or the Medium account [Pragya Sapkota](https://medium.com/@pragyasapkota)
+# To view my personal blogs, visit the [Portfolio](https://github.com/Pragya2056/Portfolio) repo on my github profile or the Medium account [Pragya Sapkota](https://medium.com/@pragyasapkota)
 
 <!--
 
