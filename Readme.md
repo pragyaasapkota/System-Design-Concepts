@@ -17,21 +17,23 @@ As github has welcomed people of low-code and non-code experience to contribute 
 
 Hacktoberfest is digitalocean’s annual event that encourages people to contribute to open source throughout October. much of modern tech infrastructure—including some of digitalocean’S own products—relies on open-source projects built and maintained by passionate people who often don’t have the staff or budgets to do much more than keep the project alive. Hacktoberfest is all about giving back to those projects, sharpening skills, and celebrating all things open source, especially the people that make open source so special.
 
-To start contributing - visting [CONTRIBUTING.md](https://github.com/Pragya2056/system-design-concepts-hacktoberfest2022/blob/master/CONTRIBUTING.md)
+## To start contributing on this repo - visit [CONTRIBUTING.md](https://github.com/Pragya2056/system-design-concepts-hacktoberfest2022/blob/master/CONTRIBUTING.md)
 
-## How to start contributing?
+OR
+
+You can follow the guidelines below: -
 
 ### 1. Register for [Hactoberfest](https://hacktoberfest.com/) as a contributor
 
 ### 2. Fork this repo and make the project available locally. Run the following command for that
 
-`git clone https://<username>/system-design-concepts-hacktoberfest2022`
+#### `git clone https://<username>/system-design-concepts-hacktoberfest2022`
 
 ### 3. Create a branch for the changes
 
-`git checkout master`
+#### `git checkout master`
 
-`git branch -M <branch_name>`
+#### `git branch -M <branch_name>`
 
 ### 4. Create a folder with the topic of your wish but it must be one of the concepts of system design
 
@@ -41,16 +43,14 @@ To start contributing - visting [CONTRIBUTING.md](https://github.com/Pragya2056/
 
 ### 6. Commit the changes
 
-`git add .`
+#### `git add .`
 
-`git commit -m 'added <the topic>'`
+#### `git commit -m 'added <the topic>'`
 
-`git push -u origin <branch_name>`
+#### `git push -u origin <branch_name>`
 
 ### 7. Open a [Pull request](https://medium.com/@pragyasapkota/how-to-create-a-pull-request-in-github-a-small-guide-to-beginners-in-hacktober-2022-f4f5ff214542) in your github
 
 ### 8. Give this project a star
 
 If you liked working on this project, please share this project as much as you can and star this project to help as many people in opensource as you can.
-
-### 9. Add you name in the file [CONTRIBUTING.md](https://github.com/Pragya2056/system-design-concepts-hacktoberfest2022/blob/master/CONTRIBUTING.md) in the given format.

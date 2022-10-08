@@ -31,5 +31,3 @@
 ### 8. Give this project a star
 
 If you liked working on this project, please share this project as much as you can and star this project to help as many people in opensource as you can.
-
-### 9. Add you name in the file [CONTRIBUTING.md](https://github.com/Pragya2056/system-design-concepts-hacktoberfest2022/blob/master/CONTRIBUTING.md) in the given format.
