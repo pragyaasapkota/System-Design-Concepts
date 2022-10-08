@@ -75,9 +75,16 @@ If you liked working on this project, please share this project as much as you c
 - [Twitter](https://twitter.com/PragyaSapkota15)
 - [Gmail](mailto:pragyasapkota2056@gmail.com)
 
+<!--
+
 ## Our valuable Contributors 👩‍💻👨‍💻
 
-<img src="https://github.com/Pragya2056/system-design-concepts-hacktoberfest2022/graphs/contributors"/>
+<a href="https://github.com/Pragya2056/system-design-concepts-hacktoberfest2022/graphs/contributors">
+  <img src="contributors-img.web.app/image?repo=Pragya2056
+/
+system-design-concepts-hacktoberfest2022" />
+</a>
+-->
 
 ## Special Thanks:+1: to:
 
