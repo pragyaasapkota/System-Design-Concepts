@@ -17,6 +17,8 @@ As github has welcomed people of low-code and non-code experience to contribute 
 
 Hacktoberfest is digitalocean’s annual event that encourages people to contribute to open source throughout October. much of modern tech infrastructure—including some of digitalocean’S own products—relies on open-source projects built and maintained by passionate people who often don’t have the staff or budgets to do much more than keep the project alive. Hacktoberfest is all about giving back to those projects, sharpening skills, and celebrating all things open source, especially the people that make open source so special.
 
+To start contributing - visting [CONTRIBUTING.md](https://github.com/Pragya2056/system-design-concepts-hacktoberfest2022/blob/master/CONTRIBUTING.md)
+
 ## How to start contributing?
 
 ### 1. Register for [Hactoberfest](https://hacktoberfest.com/) as a contributor
@@ -50,3 +52,5 @@ Hacktoberfest is digitalocean’s annual event that encourages people to contrib
 ### 8. Give this project a star
 
 If you liked working on this project, please share this project as much as you can and star this project to help as many people in opensource as you can.
+
+### 9. Add you name in the file [CONTRIBUTING.md](https://github.com/Pragya2056/system-design-concepts-hacktoberfest2022/blob/master/CONTRIBUTING.md) in the given format.
