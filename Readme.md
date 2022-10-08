@@ -77,7 +77,7 @@ If you liked working on this project, please share this project as much as you c
 
 ## Our valuable Contributors 👩‍💻👨‍💻
 
-<img src="https://github.com/Pragya2056/system-design-concepts-hacktoberfest2022/pulse>
+<img src="https://github.com/Pragya2056/system-design-concepts-hacktoberfest2022/graphs/contributors"/>
 
 ## Special Thanks:+1: to:
 
