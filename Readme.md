@@ -74,3 +74,9 @@ If you liked working on this project, please share this project as much as you c
 - [Linkedin](https://www.linkedin.com/in/pragya-sapkota-83a38a191/)
 - [Twitter](https://twitter.com/PragyaSapkota15)
 - [Gmail](mailto:pragyasapkota2056@gmail.com)
+
+## Our valuable Contributors 👩‍💻👨‍💻
+
+## Special Thanks:+1: to:
+
+[Niraj Pradhan](https://github.com/nirajpdn)
