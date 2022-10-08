@@ -43,3 +43,5 @@ If you liked working on this project, please share this project as much as you c
 4. Spammy Pull Requests will be marked spam and then closed.
 
 5. The topic should be under System Design Concepts. It might be even remotely related but no other than that.
+
+6. Donot remove previous contents.
