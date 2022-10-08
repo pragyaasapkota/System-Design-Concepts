@@ -59,7 +59,7 @@ If you liked working on this project, please share this project as much as you c
 
 1. Don't Create Pull Request to update "readme.md" or the "CONTRIBUTING.md" File.
 
-2. If you want to add corrections or design pictures or have a genuine update on the existing files, try it and if it is valid - will be accepted.
+2. If you want to add corrections or design pictures or have a genuine update on the existing files, try it and if it is valid - will be accepted. But you need to make a new .md file inside the folder and add your content there.
 
 3. Make a folder for your content and make your content limited to the folder only.
 
