@@ -6,13 +6,13 @@ In this section you will learn about some of the important system design concept
 
 Large enterprises actually have fairly large amounts of data, sort of contrary to popular belief. With increasing amounts of data the system should also for the most part grow to really manage it effectively in a fairly big way. This process of growing or shrinking of the system to for the most part handle data actually is called scaling, basically further showing how with increasing amounts of data the system should also particularly grow to specifically manage it effectively
 
-### Scaling of any system can specifically be achieved by two ways in a subtle way
+### Scaling of any system can specifically be achieved by two ways in a subtle way.
 
 ## Vertical Scaling
 
 Vertical scaling literally means upgrading the hardware/software of the existing system in a basically major way. Adding more power to it pretty much more RAM, CPU’s and HDD, which really is quite significant. But with pretty vertical scaling there actually is always a limit a max beyond which it cannot generally go higher, demonstrating that basically vertical scaling essentially means upgrading the hardware/software of the existing system in a fairly big way.
 
-                                                              OR
+## OR
 
 You can add more powers to your machine by adding better processors, RAM, or other power increasing adjustments. Vertical scaling can be easily achieved by switching from small to bigger machines but remember that this involves downtime.
 
@@ -37,7 +37,7 @@ You can add more powers to your machine by adding better processors, RAM, or oth
 
 Generally Horizontal scaling definitely means adding pretty multiple additional systems to really improve the performance, which essentially is quite significant. Typically we might use sort of several pretty low end commodity hardware to really save the cost in a really major way
 
-                                                            Or
+## OR
 
 In horizontal scaling, we share the processing and memory workload across multiple devices. This approach is the best solution for projects which have requirements for high availability or failover. Most organizations choose this approach because it includes increasing I/O concurrency and reducing the load on existing nodes.
 
@@ -69,3 +69,7 @@ In horizontal scaling, we share the processing and memory workload across multip
 | 2. Resilient to system failures | 2. Single point of failures       |
 | 3. Data inconsistency           | 3. Data consistency               |
 | 4. Scales well.                 | 4. Has hardware limit for scaling |
+
+```
+
+```
