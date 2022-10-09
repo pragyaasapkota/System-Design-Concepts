@@ -69,7 +69,3 @@ In horizontal scaling, we share the processing and memory workload across multip
 | 2. Resilient to system failures | 2. Single point of failures       |
 | 3. Data inconsistency           | 3. Data consistency               |
 | 4. Scales well.                 | 4. Has hardware limit for scaling |
-
-```
-
-```
