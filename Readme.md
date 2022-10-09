@@ -79,16 +79,11 @@ If you liked working on this project, please share this project as much as you c
 
 ### To view my personal blogs, visit the [Portfolio](https://github.com/Pragya2056/Portfolio) repo on my github profile or the Medium account [Pragya Sapkota](https://medium.com/@pragyasapkota)
 
-<!--
-
-## Our valuable Contributors 👩‍💻👨‍💻
+## Our Valuable Contributors
 
 <a href="https://github.com/Pragya2056/system-design-concepts-hacktoberfest2022/graphs/contributors">
-  <img src="contributors-img.web.app/image?repo=Pragya2056
-/
-system-design-concepts-hacktoberfest2022" />
+  <img src="https://contrib.rocks/image?repo=Pragya2056/system-design-concepts-hacktoberfest2022" />
 </a>
--->
 
 ## Special Thanks:+1: to:
 
