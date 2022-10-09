@@ -2,15 +2,10 @@
 
 CAP stands for **Consistency, Availability, and Partition tolerance**. The theorem states that a distributed system (collection of computers) should ideally share a single state while performing simultaneously. The shared system should also manage its data across multiple nodes using virtual machines or physical systems.
 
-You 
-cannot achieve all the properties at the best level in a single database, as there are natural 
-trade-offs between the items. You can only **pick two out of three** at a time and that totally depends 
-on your priorities based on your requirements.
+You cannot achieve all the properties at the best level in a single database, as there are natural trade-offs between the items. You can only **pick two out of three** at a time and that totally depends on your priorities based on your requirements.
 
-For example, if your system needs to be available 
-and partition tolerant, then you must be willing to accept some latency in your consistency requirements.
-**Traditional relational databases** are a natural fit for the **CA** side whereas **Non-relational database** engines
-mostly satisfy **AP and CP** requirements.
+For example, if your system needs to be available and partition tolerant, then you must be willing to accept some latency in your consistency requirements.
+**Traditional relational databases** are a natural fit for the **CA** side whereas **Non-relational database** engines mostly satisfy **AP and CP** requirements.
 
 This theorem is also known as **Brewer’s theorem** since it was first conveyed by **Eric Brewer**, a computer science professor from U.C. Berkley.
 
