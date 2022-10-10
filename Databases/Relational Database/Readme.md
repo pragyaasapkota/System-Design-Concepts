@@ -52,7 +52,7 @@ Further, there is isolation. This allows you to do multiple transactions at the 
 
 ### Durability
 
-The term durability is associated with a promise that states that once data is stored in a database, it will remain persistent there. The data from all the operations and transactions are stored on disk and not in memory which we discussed earlier in the topic storage.
+The term durability is associated with a promise that states that once data is stored in a database, it will remain persistent there. The data from all the operations and transactions are stored on disk and not in memory which we discussed earlier in the topic [storage](https://github.com/Pragya2056/system-design-concepts-hacktoberfest2022/tree/master/Storage).
 
 ## Conclusion
 
