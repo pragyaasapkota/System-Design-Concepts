@@ -1,0 +1,17 @@
+CAP stands for Consistency, Availability, and Partition tolerance. 
+The theorem states that you cannot achieve all the properties at the best level in a single database, as there are natural trade-offs between the items. 
+You can only pick two out of three at a time and that totally depends on your priorities based on your requirements. 
+For example, if your system needs to be available and partition tolerant, then you must be willing to accept some latency in your consistency requirements.
+Traditional relational databases are a natural fit for the CA side whereas Non-relational database engines mostly satisfy AP and CP requirements. 
+
+Consistency means that any read request will return the most recent write. Data consistency is usually “strong” for SQL databases and for NoSQL databases consistency may be anything from “eventual” to “strong”.
+Availability means that a non-responding node must respond in a reasonable amount of time. Not every application needs to run 24/7 with 99.999% availability but most likely you will prefer a database with higher availability.
+Partition tolerance means the system will continue to operate despite network or node failures.
+Keep in mind this CAP theorem in your system design interview. 
+Take the decision depending on the type of application and your priorities.
+Is it actually ok if your system goes down for a few seconds or a few minutes, if not then availability should be your prime concern. 
+If you’re dealing with something with real transactional information like a stock transaction or financial transaction you might value consistency above all.
+Try to choose the technology that is best suited to the trade-offs that you want to make. 
+
+Note: CA systems are not defined for distributed systems. However, in the case of a single node setup, you can get CA capabilities. Further, distributed systems have to support partition tolerance due to network failures. 
+Hence, either you choose Consistency or Availability i.e build a CP or an AP system.
