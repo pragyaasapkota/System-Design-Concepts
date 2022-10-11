@@ -56,4 +56,4 @@ The term durability is associated with a promise that states that once data is s
 
 ## Conclusion
 
-The relational database is a structured database that handles more complex data queries in comparison to a non-relational database which we will discuss soon. For now, a concept level of a relational database for a better understanding of system design is better.
+The relational database is a structured database that handles more complex data queries in comparison to a non-relational database which we will discuss soon. For now, a concept level of a relational database for a better understanding of [system design](https://github.com/Pragya2056/system-design-concepts-hacktoberfest2022) is better.
