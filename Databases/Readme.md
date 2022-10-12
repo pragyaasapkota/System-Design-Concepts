@@ -1,6 +1,6 @@
 # Databases
 
-It's not uncommon that ought to be asked to design the database. You need to choose the different types of storage solutions ([relational](https://github.com/Pragya2056/system-design-concepts-hacktoberfest2022/tree/master/Databases/Relational%20Database) or non-relational) for different use cases. We are going to discuss some important concepts of databases which are frequently used in system design.
+It's not uncommon that ought to be asked to design the database. You need to choose the different types of storage solutions ([relational](https://github.com/Pragya2056/system-design-concepts-hacktoberfest2022/tree/master/Databases/Relational%20Database) or [non-relational](https://github.com/Pragya2056/system-design-concepts-hacktoberfest2022/tree/master/Databases/Non-relational-Database)) for different use cases. We are going to discuss some important concepts of databases which are frequently used in system design.
 
 ## Database Indexing
 
