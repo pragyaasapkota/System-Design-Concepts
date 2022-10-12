@@ -2,21 +2,24 @@
 
 It's not uncommon that ought to be asked to design the database. You need to choose the different types of storage solutions ([relational](https://github.com/Pragya2056/system-design-concepts-hacktoberfest2022/tree/master/Databases/Relational%20Database) or [non-relational](https://github.com/Pragya2056/system-design-concepts-hacktoberfest2022/tree/master/Databases/Non-relational-Database)) for different use cases. We are going to discuss some important concepts of databases which are frequently used in system design.
 
-## Database Indexing
+## Indexing
 
-Database indexes are a data structure that facilitates the fast searching of databases. They are typically used to look up one or two values in each record. We can use indexing for problems where we need to retrieve a value from a large number of rows in a row.
+The database can have a large amount of data with up to millions of records. In the time of need, the disorganized data with no index is very hard to retrieve and the whole database would have to be iterated one by one. And if it's old data, then that would be an absolute nightmare. The solution to getting out of this complication is INDEX.
 
-Indexing is the way of sorting a number of records on multiple fields. When you add an index in a table on a field, it creates another data structure that holds the field value and pointer to the record it relates to. This index structure is then sorted, allowing binary searches to be performed on it.
+Database Indexing is a kind of data structure that helps with fast retrieval of the information held in the database. We use indexes to look up those data which is assigned at the time the information is stored. When the data is too large to be able to search for data iteratively, we use database indexing. This is a core necessity to a [relational database](https://github.com/Pragya2056/system-design-concepts-hacktoberfest2022/tree/master/Databases/Relational%20Database) and is offered on [non-relational databases](https://github.com/Pragya2056/system-design-concepts-hacktoberfest2022/tree/master/Databases/Non-relational-Database) as well. We have a very optimized lookup time when the data is indexed.
 
 ## Replication
 
-If your database is overloaded, it will crash at a certain point. To avoid this kind of failure we use replication which simply means duplicating our database. Replication can be synchronous (at the same time as the changes to the main database) or an asynchronous approach.
+Replication means making copies of things to duplicate them. In a database, the term replication is heard when we learn scaling. We can duplicate our database so that if the database overloads and crash at some point, the other duplicated database handles the load, and we can avoid system failure. This creates redundancy in the system which will maintain high availability in the system.
 
 ![Caching](https://media.geeksforgeeks.org/wp-content/uploads/20200824220433/DataBaseReplicationSystemDesign.png)
 
-## Sharding or Data Partitioning
+We can have the data replication both synchronously and asynchronously. When chosen the synchronous way, the replicated database updates in sync with the changes in the main database. You can allocate a time interval where your main database and the replica database can be synchronized and updated. One other thing to ensure is that if the write operation to the replica fails somehow, the write operation to the main database also fails. This falls under the feature Atomicity as we discussed earlier in the article — [Relational Database](https://github.com/Pragya2056/system-design-concepts-hacktoberfest2022/tree/master/Databases/Relational%20Database).
 
-Data replication solves the availability issue but doesn't solve the throughput and latency issues (speed). In those cases, you need to share your database which means 'chunking down' or partitioning your data records. So sharding data breaks your huge database into smaller databases.
-There are two ways to partition your database- horizontal and vertical sharding. Vertical sharding means you take each table and put each table into a new machine. You can take some sort of key like a user ID and break the data into pieces and allocate data to different machines.
+However, the dispute that might occur in the replication is when the data is too large, and the only concern is to make the system more available but not to improve [latency and throughput](https://github.com/Pragya2056/system-design-concepts-hacktoberfest2022/tree/master/Latency-and-throughput). And thus, we chunk down the data which leads us to Sharding.
+
+## Sharding
+
+Data sharding means breaking the huge database into smaller databases so that the latency and throughput are maintained after the database replication. You can choose how you want your data to be broken. There are two types of ways to shard your data — horizontal and vertical sharding. In horizontal sharding, the rows of the same table are stored in multiple database nodes whereas, in vertical sharding, different tables and columns are stored in a separate database.
 
 ![Caching](https://media.geeksforgeeks.org/wp-content/uploads/20200824220542/ShardingorDataPartitioningSystemDesignExample.png)
