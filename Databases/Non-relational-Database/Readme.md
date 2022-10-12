@@ -20,9 +20,9 @@ A non-relational database is a less rigid database that provides more flexibilit
 	year: 2072,
 },
 {
-.....
+	---
 },
-......
+----
 ]
 ```
 
