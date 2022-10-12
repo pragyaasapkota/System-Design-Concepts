@@ -1,6 +1,6 @@
 # Databases
 
-A database is a collection of information that is structured for easy access. It mainly runs in a computer system and is controlled by a database management system (DBMS). Let’s see some concepts of the database here – Indexing, Replication, and, Sharding respectively.
+A database is a collection of information that is structured for easy access. It mainly runs in a computer system and is controlled by a database management system (DBMS). The above files include [Relational Database](https://github.com/Pragya2056/system-design-concepts-hacktoberfest2022/tree/master/Databases/Relational%20Database) and [Non-relational Database](https://github.com/Pragya2056/system-design-concepts-hacktoberfest2022/tree/master/Databases/Non-relational-Database) but there are more concepts to familiarize with. Let’s see some concepts of the database here – Indexing, Replication, and, Sharding respectively.
 
 ## Indexing
 
