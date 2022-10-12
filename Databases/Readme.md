@@ -6,7 +6,7 @@ It's not uncommon that ought to be asked to design the database. You need to cho
 
 Database indexes are a data structure that facilitates the fast searching of databases. They are typically used to look up one or two values in each record. We can use indexing for problems where we need to retrieve a value from a large number of rows in a row.
 
-     Indexing is the way of sorting a number of records on multiple fields. When you add an index in a table on a field, it creates another data structure that holds the field value and pointer to the record it relates to. This index structure is then sorted, allowing binary searches to be performed on it.
+Indexing is the way of sorting a number of records on multiple fields. When you add an index in a table on a field, it creates another data structure that holds the field value and pointer to the record it relates to. This index structure is then sorted, allowing binary searches to be performed on it.
 
 ## Replication
 
