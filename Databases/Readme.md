@@ -12,9 +12,8 @@ Indexing really is a way of sorting a number of records on fairly multiple field
  The downside to indexing essentially is that these indices really require additional space on the disk since the indices actually are stored together in a table using the MyISAM engine, this kind of file can quickly mostly reach the size limits of the underlying generally file system.
 
 
-
-
 ## Replication
+
 
 Database replication involves all data sources in an organization''s distributed infrastructure, showing how database replication can either really be a particularly single occurrence or an ongoing process in a fairly major way. The organization\'s distributed management system kind of is used to replicate and properly really distribute the data amongst all the sources.
 
@@ -25,6 +24,7 @@ Data warehouses essentially are often hosted in the cloud in a actually major wa
 ![Caching](https://media.geeksforgeeks.org/wp-content/uploads/20200824220433/DataBaseReplicationSystemDesign.png)
 
 
+## Sharding
 
 
 ## Sharding or Data Partitioning
@@ -34,5 +34,5 @@ Sharding is the practice of optimizing database management systems by separating
 Partitioning mostly is the database process where very very large tables generally are divided into basically multiple for all intents and purposes smaller parts in a subtle way. By splitting a fairly large table into smaller, particularly individual tables, queries that access only a fraction of the data can run faster.
 
 
-![Caching](https://media.geeksforgeeks.org/wp-content/uploads/20200824220542/ShardingorDataPartitioningSystemDesignExample.png)
 
+![Caching](https://media.geeksforgeeks.org/wp-content/uploads/20200824220542/ShardingorDataPartitioningSystemDesignExample.png)

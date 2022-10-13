@@ -65,9 +65,11 @@ If you liked working on this project, please share this project as much as you c
 
 4. Spammy Pull Requests will be marked spam and then closed.
 
-5. The topic should be under System Design Concepts. It might be even remotely related but no other than that.
+5. The duplicate or copied content is strictly prohibited.
 
-6. Donot remove previous contents.
+6. The topic should be under System Design Concepts. It might be even remotely related but no other than that.
+
+7. Donot remove previous contents.
 
 ## If you have any queries regarding this, you can contact me: -
 
@@ -79,16 +81,11 @@ If you liked working on this project, please share this project as much as you c
 
 ### To view my personal blogs, visit the [Portfolio](https://github.com/Pragya2056/Portfolio) repo on my github profile or the Medium account [Pragya Sapkota](https://medium.com/@pragyasapkota)
 
-<!--
-
-## Our valuable Contributors 👩‍💻👨‍💻
+## Our Valuable Contributors
 
 <a href="https://github.com/Pragya2056/system-design-concepts-hacktoberfest2022/graphs/contributors">
-  <img src="contributors-img.web.app/image?repo=Pragya2056
-/
-system-design-concepts-hacktoberfest2022" />
+  <img src="https://contrib.rocks/image?repo=Pragya2056/system-design-concepts-hacktoberfest2022" />
 </a>
--->
 
 ## Special Thanks:+1: to:
 
