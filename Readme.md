@@ -65,7 +65,7 @@ If you liked working on this project, please share this project as much as you c
 
 4. Spammy Pull Requests will be marked spam and then closed.
 
-5. The duplicate or copied content is strictly prohibited.
+5. The duplicate or copied content is strictly prohibited. Every content will be checked for plagarism and each content with more than 10% plagarized content will be reported.
 
 6. The topic should be under System Design Concepts. It might be even remotely related but no other than that.
 
