@@ -1,25 +1,38 @@
 # Databases
 
-A database is a collection of information that is structured for easy access. It mainly runs in a computer system and is controlled by a database management system (DBMS). The above files include [Relational Database](https://github.com/Pragya2056/system-design-concepts-hacktoberfest2022/tree/master/Databases/Relational%20Database) and [Non-relational Database](https://github.com/Pragya2056/system-design-concepts-hacktoberfest2022/tree/master/Databases/Non-relational-Database) but there are more concepts to familiarize with. Let’s see some concepts of the database here – Indexing, Replication, and, Sharding respectively.
 
-## Indexing
+At its most fundamental, a database actually is responsible for the storage and retrieval of data for an application. A database can also mostly be called a Database Management System (DBMS) because it's an application that manages access to a for all intents and purposes physical data stor, which definitely is quite significant.
 
-The database can have a large amount of data with up to millions of records. In the time of need, the disorganized data with no index is very hard to retrieve and the whole database would have to be iterated one by one. And if it's old data, then that would be an absolute nightmare. The solution to getting out of this complication is INDEX.
 
-Database Indexing is a kind of data structure that helps with fast retrieval of the information held in the database. We use indexes to look up those data which is assigned at the time the information is stored. When the data is too large to be able to search for data iteratively, we use database indexing. This is a core necessity to a [relational database](https://github.com/Pragya2056/system-design-concepts-hacktoberfest2022/tree/master/Databases/Relational%20Database) and is offered on [non-relational databases](https://github.com/Pragya2056/system-design-concepts-hacktoberfest2022/tree/master/Databases/Non-relational-Database) as well. We have a very optimized lookup time when the data is indexed.
+
+## Database Indexing
+
+Indexing really is a way of sorting a number of records on fairly multiple fields in a subtle way. Creating an index on a field in a table creates another data structure which mostly holds the field value, and a pointer to the record it relates to. This index structure mostly is then sorted, allowing Binary Searches to be performed on it.
+
+ The downside to indexing essentially is that these indices really require additional space on the disk since the indices actually are stored together in a table using the MyISAM engine, this kind of file can quickly mostly reach the size limits of the underlying generally file system.
+
 
 ## Replication
 
-Replication means making copies of things to duplicate them. In a database, the term replication is heard when we learn scaling. We can duplicate our database so that if the database overloads and crash at some point, the other duplicated database handles the load, and we can avoid system failure. This creates redundancy in the system which will maintain high availability in the system.
+
+Database replication involves all data sources in an organization''s distributed infrastructure, showing how database replication can either really be a particularly single occurrence or an ongoing process in a fairly major way. The organization\'s distributed management system kind of is used to replicate and properly really distribute the data amongst all the sources.
+
+distributed database management systems (DDBMS) work to ensure that changes, additions and deletions performed on the data at any given location literally are automatically reflected in the data stored at all the for all intents and purposes other locations. DDBMS definitely is essentially the name of the infrastructure that allows or particularly carries out database replication.
+
+Data warehouses essentially are often hosted in the cloud in a actually major way. Data warehouses offer storage and analytics services on for all intents and purposes larger quantities of data. Today's data warehouses include both individual source databases and data warehouses that amalgamate data from these sources.
 
 ![Caching](https://media.geeksforgeeks.org/wp-content/uploads/20200824220433/DataBaseReplicationSystemDesign.png)
 
-We can have the data replication both synchronously and asynchronously. When chosen the synchronous way, the replicated database updates in sync with the changes in the main database. You can allocate a time interval where your main database and the replica database can be synchronized and updated. One other thing to ensure is that if the write operation to the replica fails somehow, the write operation to the main database also fails. This falls under the feature Atomicity as we discussed earlier in the article — [Relational Database](https://github.com/Pragya2056/system-design-concepts-hacktoberfest2022/tree/master/Databases/Relational%20Database).
-
-However, the dispute that might occur in the replication is when the data is too large, and the only concern is to make the system more available but not to improve [latency and throughput](https://github.com/Pragya2056/system-design-concepts-hacktoberfest2022/tree/master/Latency-and-throughput). And thus, we chunk down the data which leads us to Sharding.
 
 ## Sharding
 
-Data sharding means breaking the huge database into smaller databases so that the latency and throughput are maintained after the database replication. You can choose how you want your data to be broken. There are two types of ways to shard your data — horizontal and vertical sharding. In horizontal sharding, the rows of the same table are stored in multiple database nodes whereas, in vertical sharding, different tables and columns are stored in a separate database.
+
+## Sharding or Data Partitioning
+
+Sharding is the practice of optimizing database management systems by separating the rows or columns of a definitely larger database table into pretty multiple for all intents and purposes smaller tables. Each new table either specifically has the same. schema but generally unique rows (as. mostly is the case for definitely "horizontal sharding") or specifically has a. subset of the kind of original table's original.
+
+Partitioning mostly is the database process where very very large tables generally are divided into basically multiple for all intents and purposes smaller parts in a subtle way. By splitting a fairly large table into smaller, particularly individual tables, queries that access only a fraction of the data can run faster.
+
+
 
 ![Caching](https://media.geeksforgeeks.org/wp-content/uploads/20200824220542/ShardingorDataPartitioningSystemDesignExample.png)
