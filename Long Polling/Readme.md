@@ -20,7 +20,7 @@ Something you might notice is how the browser doesn't repeatedly have to send qu
 * Excess load on server by constantly tearing down HTTP connections and re-establishing them
 * Possible race condition of multiple requests from same client receiving messages out of order (two tabs open)
 
-#Conclusion
+# Conclusion
 
 Each Long Poll request has a timeout. If the traffic is low between client and server, means messages are not sent on a very frequent interval, then Long Polling is a good choice. 
 
