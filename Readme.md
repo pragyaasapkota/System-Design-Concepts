@@ -73,7 +73,19 @@ If you liked working on this project, please share this project as much as you c
 
 # Code of Conduct
 
-## If you have any queries regarding this, you can contact me: -
+<p align="center"><a href="https://github.com/Pragya2056/system-design-concepts-hacktoberfest2022/blob/master/CODE_OF_CONDUCT.md"><img width=35% src="https://media.giphy.com/media/qHRwTyhWIj4UU/200w_d.gif"></a></p>
+
+<br/>
+
+<h1 align=center> Project Admin </h1>
+  
+<table align=center>
+<tr>
+<td align="center"><a href="https://github.com/Pragya2056"><img src="https://avatars.githubusercontent.com/u/55945790?v=4" width=150px height=150px /></a></br> <h4 style="color:White;">Pragya sapkota</h4>
+</tr>
+</table>
+
+### If you have any queries regarding this, you can contact me: -
 
 (`CTRL+click` the link below)
 
@@ -83,16 +95,7 @@ If you liked working on this project, please share this project as much as you c
 
 ### To view my personal blogs, visit the [Portfolio](https://github.com/Pragya2056/Portfolio) repo on my github profile or the Medium account [Pragya Sapkota](https://medium.com/@pragyasapkota)
 
-<br/>
-
-<h1 align=center> Project Admin ❤️ </h1>
-  
-<table align=center>
-<tr>
-<td align="center"><a href="https://github.com/Pragya2056"><img src="https://avatars.githubusercontent.com/u/55945790?v=4" width=150px height=150px /></a></br> <h4 style="color:White;">Pragya sapkota</h4>
-</tr>
-</table>
-<br/>
+  <br/>
 
 ## Our Valuable Contributors
 
