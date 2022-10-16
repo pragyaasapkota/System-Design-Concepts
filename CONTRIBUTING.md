@@ -50,4 +50,4 @@ If you liked working on this project, please share this project as much as you c
 
 # Code of Conduct
 
-<p align="center"><a href="https://github.com/Pragya2056/system-design-concepts-hacktoberfest2022/blob/master/CODE_OF_CONDUCT.md"><img width=35% src="https://media.giphy.com/media/qHRwTyhWIj4UU/200w_d.gif"></a></p>
+<p><a href="https://github.com/Pragya2056/system-design-concepts-hacktoberfest2022/blob/master/CODE_OF_CONDUCT.md"><img width=35% src="https://media.giphy.com/media/qHRwTyhWIj4UU/200w_d.gif"></a></p>
