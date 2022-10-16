@@ -71,6 +71,8 @@ If you liked working on this project, please share this project as much as you c
 
 7. Donot remove previous contents.
 
+# Code of Conduct
+
 ## If you have any queries regarding this, you can contact me: -
 
 (`CTRL+click` the link below)
@@ -80,6 +82,17 @@ If you liked working on this project, please share this project as much as you c
 - [Gmail](mailto:pragyasapkota2056@gmail.com)
 
 ### To view my personal blogs, visit the [Portfolio](https://github.com/Pragya2056/Portfolio) repo on my github profile or the Medium account [Pragya Sapkota](https://medium.com/@pragyasapkota)
+
+<br/>
+
+<h1 align=center> Project Admin ❤️ </h1>
+  
+<table align=center>
+<tr>
+<td align="center"><a href="https://github.com/Pragya2056"><img src="https://avatars.githubusercontent.com/u/55945790?v=4" width=150px height=150px /></a></br> <h4 style="color:White;">Pragya sapkota</h4>
+</tr>
+</table>
+<br/>
 
 ## Our Valuable Contributors
 
