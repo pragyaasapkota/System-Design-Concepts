@@ -4,7 +4,11 @@ Hacktober Fest - Excluded
 <img src="https://octodex.github.com/images/original.png" width="40"/>
 </h1>
 
-## With due respect, to my fellow contributors, this is information that the repository has been excluded from the event Hacktoberfest. The repo's maintainer (Me-Pragya2056) unintentionally made three spammy Pull Requests in repository. And to maintain the quality standard and promote good quality open source contributions - this repo was excluded. I apologize for making the Spammy PRs that were not worth the standards of Hacktoberfest 2022. I also want to make note that what happened was totally unintentional and I never wanted to misguide anyone. I was in a learning phase of the open source contributions and made some mistakes that led the repo in the wrong direction. Thus, I hereby decide to make this repo an "ARCHIVE". Sorry for the inconvenience.
+## With due respect, to my fellow contributors, this is information that the repository has been excluded from the event Hacktoberfest. The repo's maintainer (Me-Pragya2056) unintentionally made three spammy Pull Requests in repository. And to maintain the quality standard and promote good quality open source contributions - this repo was excluded. I apologize for making the Spammy PRs that were not worth the standards of Hacktoberfest 2022. I also want to make note that what happened was totally unintentional and I never wanted to misguide anyone. I was in a learning phase of the open source contributions and made some mistakes that led the repo in the wrong direction.
+
+<br/>
+
+# Thus, I hereby decide to make this repo an "ARCHIVE". Sorry for the inconvenience.
 
 <br/>
 
