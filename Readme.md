@@ -79,7 +79,7 @@ If you liked working on this project, please share this project as much as you c
 
 <h1> Project Admin </h1>
   
-<table align=center>
+<table>
 <tr>
 <td align="center"><a href="https://github.com/Pragya2056"><img src="https://avatars.githubusercontent.com/u/55945790?v=4" width=150px height=150px /></a></br> <h4 style="color:White;">Pragya sapkota</h4>
 </tr>
