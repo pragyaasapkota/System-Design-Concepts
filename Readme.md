@@ -77,7 +77,7 @@ If you liked working on this project, please share this project as much as you c
 
 <br/>
 
-<h1 align=center> Project Admin ❤️ </h1>
+<h1 align=center> Project Admin </h1>
   
 <table align=center>
 <tr>
