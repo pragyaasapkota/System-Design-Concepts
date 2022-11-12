@@ -17,37 +17,37 @@ If you wish to open these in a new tab, Press `CTRL+click`
 <tr>
 <td> 1.</td>
 <td> 
-<a href="https://github.com/Pragya2056/System-Design-Concepts/tree/master/Caching"> Caching </a> 
+<a href=""> Caching </a> 
 </td>
 </tr>
 <tr>
 <td> 2.</td>
 <td>
-<a href="https://github.com/Pragya2056/System-Design-Concepts/tree/master/Network-Protocols"> Network Protocols </a>
+<a href=""> Network Protocols </a>
 </td>
 </tr>
 <tr>
 <td> 3.</td>
 <td>
-<a href="https://github.com/Pragya2056/System-Design-Concepts/tree/master/Storage"> Storage: The Underrated Topic </a>
+<a href=""> Storage: The Underrated Topic </a>
 </td>
 </tr>
 <tr>
 <td> 4.</td>
 <td>
-<a href="https://github.com/Pragya2056/System-Design-Concepts/tree/master/Latency-and-throughput"> Latency and Throughput </a>
+<a href=""> Latency and Throughput </a>
 </td>
 </tr>
 <tr>
 <td> 5.</td>
 <td>
-<a href="https://github.com/Pragya2056/System-Design-Concepts/tree/master/System-availabilty"> System Availability </a>
+<a href=""> System Availability </a>
 </td>
 </tr>
 <tr>
 <td> 6.</td>
 <td>
-<a href="https://github.com/Pragya2056/System-Design-Concepts/tree/master/Leader%20Election"> Leader Election </a>
+<a href=""> Leader Election </a>
 </td>
 </tr>
 <tr>
@@ -65,13 +65,13 @@ If you wish to open these in a new tab, Press `CTRL+click`
 <tr>
 <td> 9.</td>
 <td>
-<a href=""> Endpoint Protection </a>
+<a href="https://github.com/Pragya2056/System-Design-Concepts/tree/master/Endpoint-Protection"> Endpoint Protection </a>
 </td>
 </tr>
 <tr>
 <td> 10. </td>
 <td>
-<a href=""> HTTPS: Is it better than HTTP? </a>
+<a href="https://github.com/Pragya2056/System-Design-Concepts/tree/master/HTTPS"> HTTPS: Is it better than HTTP? </a>
 </td>
 </tr>
 <tr>
