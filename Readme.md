@@ -107,19 +107,19 @@ If you wish to open these in a new tab, Press `CTRL+click`
 <tr>
 <td> 16.</td>
 <td>
-<a href=""> Messaging and Pub-Sub </a>
+<a href="https://github.com/Pragya2056/Portfolio/tree/master/System%20Design%20Concepts/Messaging%20and%20Pub-Sub"> Messaging and Pub-Sub </a>
 </td>
 </tr>
 <tr>
 <td> 17.</td>
 <td>
-    <a href=""> Database
+    <a href="https://github.com/Pragya2056/System-Design-Concepts/tree/master/Databases"> Database
         <ul>
             <li>
-                <a href=""> Relational Database </a>
+                <a href="https://github.com/Pragya2056/System-Design-Concepts/tree/master/Databases/Relational%20Database"> Relational Database </a>
             </li>
             <li>
-                <a href=""> Non-relational Database </a>
+                <a href="https://github.com/Pragya2056/System-Design-Concepts/tree/master/Databases/Non-relational-Database"> Non-relational Database </a>
             </li>
             <li>
                 <a href=""> Data Indexing, Replication, and Sharding </a>
@@ -131,19 +131,19 @@ If you wish to open these in a new tab, Press `CTRL+click`
 <tr>
 <td> 18. </td>
 <td>
-<a href=""> Logging, Monitoring, and Alerting </a>
+<a href="https://github.com/Pragya2056/Portfolio/tree/master/System%20Design%20Concepts/Logging,%20Monitoring,%20and%20Alerting"> Logging, Monitoring, and Alerting </a>
 </td>
 </tr>
 <tr>
 <td> 19. </td>
 <td>
-<a href=""> Distributed System </a>
+<a href="https://github.com/Pragya2056/Portfolio/tree/master/System%20Design%20Concepts/Distributed%20System"> Distributed System </a>
 </td>
 </tr>
 <tr>
 <td> 20. </td>
 <td>
-<a href=""> Scaling </a>
+<a href="https://github.com/Pragya2056/Portfolio/tree/master/System%20Design%20Concepts/Scaling"> Scaling </a>
 </td>
 </tr>
 </tbody>

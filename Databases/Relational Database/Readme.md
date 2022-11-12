@@ -18,7 +18,14 @@ A student is an entity with data relating to them like name, student id, gender,
 
 Let’s see a classic relationship database structure below. This is a highly structured database with the entities upon which the structures are imposed as well.
 
-![Student Database](https://miro.medium.com/max/1100/1*8aiqEm-J51YkfSrewd9X1A.jpeg)
+### Student Database
+
+| Name | Gender | Id | Faculty |
+| ---- | ------ | -- | ------- |
+| Pragya | Female | 111 | CSIT |
+| Pravin | Male | 112 | Civil Engineering |
+| Prapti | Female | 113 | BIT |
+| Prakriti | Female | 114 | BBA |
 
 The database has a formalized entity structure called schema which conforms if the data is inserted according to the structure.
 
