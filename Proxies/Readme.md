@@ -8,7 +8,7 @@ The proxy servers are very useful when you design a system. The principle of VPN
 
 When we use the word proxy, we usually mean ‘forward proxy’. It is the proxy that acts on the behalf of the client while the interaction between the client and the server is made. This is different than the ‘reverse proxy’ which acts on the behalf of the server. The data flow or the diagram — all look the same.
 
-![client-proxy-server](https://miro.medium.com/max/720/1*fteXDHNx4Q04_RA3IIW7eQ.jpeg)
+`Client ⬅️➡️ Proxy ⬅️➡️ Server`
 
 But how do distinguish between ‘forward proxy’ and ‘reverse proxy’?
 
