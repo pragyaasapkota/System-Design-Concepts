@@ -28,7 +28,7 @@ If your website receives 100 requests per second and then gives a response to on
 
 A server always has its limits. For example, if a server can handle 100 bits per second, then that is its limit, and it cannot respond to any more requests than that. This is referred to as a term — bottleneck which is the constraint on the system. If a system has three servers, with three different bits per second respectively, then it doesn’t matter if the first server has very high bits per second but if the other has the lowest then the system will be operating at the lowest because this would be the constraint. This means the slowest one will hold the speed of other servers in that system.
 
-![Throughput](https://miro.medium.com/max/720/1*sCOycTWNIW8iLi_EjATQCg.jpeg)
+![Throughput](https://miro.medium.com/max/1100/1*L2exMUY75lVtZFz2pegMyQ.webp)
 
 What we should take from this is that if we want to increase the throughput of our system then we should increase the throughput of our lowest bottleneck first. This can be done by using more hardware or increasing the capacity and performance of our existing hardware. You can see some different other ways but the one about the hardware we just mentioned might be the ultimate one.
 

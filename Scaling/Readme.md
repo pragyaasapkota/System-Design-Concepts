@@ -54,7 +54,7 @@ We can also address Vertical Scaling as Scaling up. The most common examples are
 
 ### Horizontal scaling
 
-Unlike vertical scaling, we add machines to the system instead of upgrading the already existing ones. This helps to distribute the load ([load balancing](https://github.com/Pragya2056/System-Design-Concepts/tree/master/Load%20Balancing)) which ultimately improves the system’s performance. If availability is the highest priority for your system, then horizontal scaling is your go-to add-in. In addition, it has an advantage over vertical scaling on downtime since the load is distributed.
+Unlike vertical scaling, we add machines to the system instead of upgrading the already existing ones. This helps to distribute the load ([load balancing](https://github.com/aygarp-modsiw/System-Design-Concepts/tree/master/Load%20Balancing)) which ultimately improves the system’s performance. If availability is the highest priority for your system, then horizontal scaling is your go-to add-in. In addition, it has an advantage over vertical scaling on downtime since the load is distributed.
 
 This is also known as the scale-out approach. Load Balancing is very effectively used by increasing I/O concurrency, reducing the load on existing nodes.
 

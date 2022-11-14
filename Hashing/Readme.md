@@ -2,7 +2,7 @@
 
 ![Hashing](https://miro.medium.com/max/720/1*sYSkRUQwau8wtD-6Mg60iA.jpeg)
 
-Previously, we discussed hashing briefly under the section IP hashing-based selection in the article — [Load Balancing](https://github.com/Pragya2056/system-design-concepts-hacktoberfest2022/tree/master/Load-Balancing). However, it might be a little tricky for some which are why this is an article with the basic concept of hashing.
+Previously, we discussed hashing briefly under the section IP hashing-based selection in the article — [Load Balancing](https://github.com/aygarp-modsiw/system-design-concepts-hacktoberfest2022/tree/master/Load-Balancing). However, it might be a little tricky for some which are why this is an article with the basic concept of hashing.
 
 ## What is hashing?
 
@@ -42,7 +42,9 @@ If you have a table of size 4, we can use the hash function as sum mod 4 and thu
 
 The table will look as below: -
 
-![hash table](https://miro.medium.com/max/720/1*UPqIHed594n_xuK3MMbnwg.png)
+| 0 | 1 | 2 | 3 |
+| - | - | - | - |
+| pragya | medium | | sapkota |
 
 As you can notice from above that the idea is computing a location for a string with the help of a hash function. Here, the hash function is sum of the characters mod Table size.
 
@@ -58,9 +60,9 @@ Likewise, another problem with hashing is determining the size of a hash table. 
 
 All of this leads us to two points as follows: -
 
-· Picking a good hash function
+- Picking a good hash function
 
-· Dealing with the collisions
+- Dealing with the collisions
 
 The hash function is supposed to be easy to compute and the one to avoid the maximum collisions.
 
@@ -72,4 +74,4 @@ The concept of consistent hashing was brought to reduce the problem of hashing. 
 
 ## Conclusion
 
-Hashing can be an intricate topic when we learn system design. But we can divide each of the terms and mini topics to learn them individually in detail. Consistent hashing is one of the important ones to study and understand so that we understand other system design concepts like [load balancing](https://github.com/Pragya2056/system-design-concepts-hacktoberfest2022/tree/master/Load-Balancing).
+Hashing can be an intricate topic when we learn system design. But we can divide each of the terms and mini topics to learn them individually in detail. Consistent hashing is one of the important ones to study and understand so that we understand other system design concepts like [load balancing](https://github.com/aygarp-modsiw/system-design-concepts-hacktoberfest2022/tree/master/Load-Balancing).

@@ -12,7 +12,7 @@ CAP is an acronym for Consistency, Availability, and Partition Tolerance. The th
 
 CAP theorem consists of sequential consistency that ensures that every query gets the most-recent data as the response. Every node has updated data in the distributed system to keep it consistent.
 
-**Note:** — Consistency in the CAP theorem is very different from the consistency in [ACID](https://github.com/Pragya2056/System-Design-Concepts/tree/master/Databases/Relational%20Database) database transactions. In [ACID](https://github.com/Pragya2056/System-Design-Concepts/tree/master/Databases/Relational%20Database), it means the database won’t corrupt when a new transaction is added and in CAP, it means the data is up to date.
+**Note:** — Consistency in the CAP theorem is very different from the consistency in [ACID](https://github.com/aygarp-modsiw/System-Design-Concepts/tree/master/Databases/Relational%20Database) database transactions. In [ACID](https://github.com/aygarp-modsiw/System-Design-Concepts/tree/master/Databases/Relational%20Database), it means the database won’t corrupt when a new transaction is added and in CAP, it means the data is up to date.
 
 ### 2. Availability
 
@@ -32,7 +32,7 @@ To know what two properties to use on your system, you need to analyze the condi
 
 ## CAP Theorem NoSQL database types
 
-[Relational databases](https://github.com/Pragya2056/System-Design-Concepts/tree/master/Databases/Relational%20Database) are vertically scalable but [non-relational](https://github.com/Pragya2056/System-Design-Concepts/tree/master/Databases/Non-relational-Database) are horizontally scalable. The latter is also distributed in design and can access multiple interconnected nodes by growing on the network. Usually, the [relational database](https://github.com/Pragya2056/System-Design-Concepts/tree/master/Databases/Relational%20Database) is the CA fit — Consistent and Available while the non-relational database is AP and CP which are Availability & Partition Tolerance and Consistent & Partition Tolerance respectively. Let’s see all of them individually to have a deeper understanding.
+[Relational databases](https://github.com/aygarp-modsiw/System-Design-Concepts/tree/master/Databases/Relational%20Database) are vertically scalable but [non-relational](https://github.com/aygarp-modsiw/System-Design-Concepts/tree/master/Databases/Non-relational-Database) are horizontally scalable. The latter is also distributed in design and can access multiple interconnected nodes by growing on the network. Usually, the [relational database](https://github.com/aygarp-modsiw/System-Design-Concepts/tree/master/Databases/Relational%20Database) is the CA fit — Consistent and Available while the non-relational database is AP and CP which are Availability & Partition Tolerance and Consistent & Partition Tolerance respectively. Let’s see all of them individually to have a deeper understanding.
 
 ![CA-CP-AP](https://miro.medium.com/max/1100/1*mm6bkV3L7cGNRaM2U9wzTQ.jpeg)
 
@@ -46,7 +46,7 @@ Likewise, AP goes for Availability and Partition Tolerance — getting the consi
 
 ### 3. CA Database
 
-Finally, we have Consistency and Availability with the Partition Tolerance out of the picture. In this system, a system can’t work for fault tolerance if there is a partition between two nodes. CA can’t exist outside of theory but [relational database](https://github.com/Pragya2056/System-Design-Concepts/tree/master/Databases/Relational%20Database) like PostgreSQL implements it with multiple nodes using replication.
+Finally, we have Consistency and Availability with the Partition Tolerance out of the picture. In this system, a system can’t work for fault tolerance if there is a partition between two nodes. CA can’t exist outside of theory but [relational database](https://github.com/aygarp-modsiw/System-Design-Concepts/tree/master/Databases/Relational%20Database) like PostgreSQL implements it with multiple nodes using replication.
 
 ## MongoDB and CAP theorem (CP)
 
@@ -56,4 +56,4 @@ MongoDB is a NoSQL database management system that stores data as BSON or Binary
 
 Every distributed system can choose two from the three properties according to the requirement. If you are okay with your system getting down occasionally, let go of availability and use CP, if not go with either AP or CA. Further, it is crucial that in the system with authentic transactional data related to finance, you need to value Consistency.
 
-However, the CAP theorem raises the question “What will happen to a distributed system if there are no network partitions?” and the answer is given by the [PACELC theorem](https://github.com/Pragya2056/System-Design-Concepts/tree/master/PACELC%20Theorem).
+However, the CAP theorem raises the question “What will happen to a distributed system if there are no network partitions?” and the answer is given by the [PACELC theorem](https://github.com/aygarp-modsiw/System-Design-Concepts/tree/master/PACELC%20Theorem).

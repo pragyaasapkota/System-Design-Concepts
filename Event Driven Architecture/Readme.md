@@ -24,7 +24,7 @@ There are numerous ways for implementing EDA in your system depending upon your 
 
 - Sagas
 
-- [Publish-Subscribe](https://github.com/Pragya2056/System-Design-Concepts/tree/master/Messaging%20and%20Pub-Sub)
+- [Publish-Subscribe](https://github.com/aygarp-modsiw/System-Design-Concepts/tree/master/Messaging%20and%20Pub-Sub)
 
 - Event Sourcing
 

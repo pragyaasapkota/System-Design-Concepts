@@ -36,7 +36,7 @@ And the most important leverage to have with the web sockets is that the connect
 it or if the network drops.
 ```
 
-We discussed IP, TCP, and HTTP when we looked for [Network Protocols](https://github.com/Pragya2056/System-Design-Concepts/tree/master/Network%20Protocols). We talked about the packets of data for each request-response cycle. However, the web sockets work for a single request-response interaction and open a channel for the data stream. A common example to look for streaming services is Apache Kafka.
+We discussed IP, TCP, and HTTP when we looked for [Network Protocols](https://github.com/aygarp-modsiw/System-Design-Concepts/tree/master/Network%20Protocols). We talked about the packets of data for each request-response cycle. However, the web sockets work for a single request-response interaction and open a channel for the data stream. A common example to look for streaming services is Apache Kafka.
 
 ## Difference between polling and streaming
 
