@@ -121,9 +121,6 @@ If you wish to open these in a new tab, Press `CTRL+click`
             <li>
                 <a href="https://github.com/aygarp-modsiw/System-Design-Concepts/tree/master/Databases/Non-relational-Database"> Non-relational Database </a>
             </li>
-            <li>
-                <a href=""> Data Indexing, Replication, and Sharding </a>
-            </li>
         </ul>
     </a>
 </td>
