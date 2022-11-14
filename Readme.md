@@ -146,6 +146,12 @@ If you wish to open these in a new tab, Press `CTRL+click`
 <a href="https://github.com/Pragya2056/Portfolio/tree/master/System%20Design%20Concepts/Scaling"> Scaling </a>
 </td>
 </tr>
+<tr>
+<td> 21. </td>
+<td>
+<a href="https://github.com/Pragya2056/System-Design-Concepts/tree/master/Event%20Driven%20Architecture"> Event Driven Architecture (EDA) </a>
+</td>
+</tr>
 </tbody>
 </table>
 
