@@ -16,7 +16,7 @@ The Event-Driven Architecture has three components under it. Let’s see them in
 
 2. **Event Routers**: The event routers filter and push the events produced by producers to the consumers.
 
-3. **Events Consumers**: They consumers events to reflect the state changes in the system.
+3. **Events Consumers**: They consume events to reflect the state changes in the system.
 
 ## Patterns of Event-Driven Architecture (EDA)
 
