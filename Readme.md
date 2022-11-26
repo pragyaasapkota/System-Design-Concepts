@@ -1,4 +1,4 @@
-# System Design 
+# System Design
 
 Systems design is the process of defining elements of a system like modules, architecture, components and their interfaces and data for a system based on the specified requirements.
 
@@ -147,6 +147,12 @@ If you wish to open these in a new tab, Press `CTRL+click`
 <td> 21. </td>
 <td>
 <a href="https://github.com/aygarp-modsiw/System-Design-Concepts/tree/master/Event%20Driven%20Architecture"> Event Driven Architecture (EDA) </a>
+</td>
+</tr>
+<tr>
+<td> 22. </td>
+<td>
+<a href="https://github.com/aygarp-modsiw/System-Design-Concepts/tree/master/CQRS"> CQRS </a>
 </td>
 </tr>
 </tbody>

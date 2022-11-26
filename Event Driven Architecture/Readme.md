@@ -28,7 +28,7 @@ There are numerous ways for implementing EDA in your system depending upon your 
 
 - Event Sourcing
 
-- Common and Query Responsibility Segregation (CQRS)
+- [Common and Query Responsibility Segregation (CQRS)](https://github.com/aygarp-modsiw/System-Design-Concepts/tree/master/CQRS)
 
 ## Advantages of Event-Driven Architecture (EDA)
 
