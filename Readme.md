@@ -161,6 +161,12 @@ If you wish to open these in a new tab, Press `CTRL+click`
 <a href="https://github.com/aygarp-modsiw/System-Design-Concepts/tree/master/Message%20Queue"> Message Queue </a>
 </td>
 </tr>
+<tr>
+<td> 24. </td>
+<td>
+<a href="https://github.com/pragyaasapkota/System-Design-Concepts/tree/master/Architectural%20patterns"> Architectural Patterns </a>
+</td>
+</tr>
 </tbody>
 </table>
 
