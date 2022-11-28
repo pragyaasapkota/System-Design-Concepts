@@ -155,6 +155,12 @@ If you wish to open these in a new tab, Press `CTRL+click`
 <a href="https://github.com/aygarp-modsiw/System-Design-Concepts/tree/master/CQRS"> CQRS </a>
 </td>
 </tr>
+<tr>
+<td> 23. </td>
+<td>
+<a href="https://github.com/aygarp-modsiw/System-Design-Concepts/tree/master/Message%20Queue"> Message Queue </a>
+</td>
+</tr>
 </tbody>
 </table>
 
