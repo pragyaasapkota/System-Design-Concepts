@@ -95,19 +95,19 @@ If you wish to open these in a new tab, Press `CTRL+click`
 <tr>
 <td> 14. </td>
 <td>
-<a href="https://github.com/aygarp-modsiw/Portfolio/tree/master/System%20Design%20Concepts/CAP%20Theorem"> CAP Theorem </a>
+<a href="https://github.com/aygarp-modsiw/System-Design-Concepts/tree/master/CAP%20Theorem"> CAP Theorem </a>
 </td>
 </tr>
 <tr>
 <td> 15. </td>
 <td>
-<a href="https://github.com/aygarp-modsiw/Portfolio/tree/master/System%20Design%20Concepts/PACELC%20Theorem"> PACELC Theorem </a>
+<a href="https://github.com/aygarp-modsiw/System-Design-Concepts/tree/master/PACELC%20Theorem"> PACELC Theorem </a>
 </td>
 </tr>
 <tr>
 <td> 16.</td>
 <td>
-<a href="https://github.com/aygarp-modsiw/Portfolio/tree/master/System%20Design%20Concepts/Messaging%20and%20Pub-Sub"> Messaging and Pub-Sub </a>
+<a href="https://github.com/aygarp-modsiw/System-Design-Concepts/tree/master/Messaging%20and%20Pub-Sub"> Messaging and Pub-Sub </a>
 </td>
 </tr>
 <tr>
@@ -165,6 +165,12 @@ If you wish to open these in a new tab, Press `CTRL+click`
 <td> 24. </td>
 <td>
 <a href="https://github.com/pragyaasapkota/System-Design-Concepts/tree/master/Architectural%20patterns"> Architectural Patterns </a>
+</td>
+</tr>
+<tr>
+<td> 25. </td>
+<td>
+<a href="https://github.com/pragyaasapkota/System-Design-Concepts/tree/master/Enterprise%20Service%20Bus%20(ESB)"> Enterprise Service Bus (ESB) </a>
 </td>
 </tr>
 </tbody>
