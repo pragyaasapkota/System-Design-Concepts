@@ -128,19 +128,19 @@ If you wish to open these in a new tab, Press `CTRL+click`
 <tr>
 <td> 18. </td>
 <td>
-<a href="https://github.com/aygarp-modsiw/Portfolio/tree/master/System%20Design%20Concepts/Logging,%20Monitoring,%20and%20Alerting"> Logging, Monitoring, and Alerting </a>
+<a href="https://github.com/aygarp-modsiw/System-Design-Concepts/tree/master/Logging,%20Monitoring,%20and%20Alerting"> Logging, Monitoring, and Alerting </a>
 </td>
 </tr>
 <tr>
 <td> 19. </td>
 <td>
-<a href="https://github.com/aygarp-modsiw/Portfolio/tree/master/System%20Design%20Concepts/Distributed%20System"> Distributed System </a>
+<a href="https://github.com/aygarp-modsiw/System-Design-Concepts/tree/master/Distributed%20System"> Distributed System </a>
 </td>
 </tr>
 <tr>
 <td> 20. </td>
 <td>
-<a href="https://github.com/aygarp-modsiw/Portfolio/tree/master/System%20Design%20Concepts/Scaling"> Scaling </a>
+<a href="https://github.com/aygarp-modsiw/System-Design-Concepts/tree/master/Scaling"> Scaling </a>
 </td>
 </tr>
 <tr>
