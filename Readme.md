@@ -185,6 +185,12 @@ If you wish to open these in a new tab, Press `CTRL+click`
 <a href="https://github.com/pragyaasapkota/System-Design-Concepts/tree/master/Heartbeat%20Messaging"> Heartbeat Messaging </a>
 </td>
 </tr>
+<tr>
+<td> 28. </td>
+<td>
+<a href="https://github.com/pragyaasapkota/System-Design-Concepts/tree/master/Normalization"> Normalization </a>
+</td>
+</tr>
 </tbody>
 </table>
 
