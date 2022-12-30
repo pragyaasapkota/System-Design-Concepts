@@ -8,7 +8,7 @@ CQRS goes on with a theory of separating commands and queries that performs diff
 
 ## CQRS with Event Sourcing
 
-We can see CQRS walking alongside the Event Sourcing pattern where the source of events is the write model and is the official source of information. As per the read model, it materializes the views of the data. These are usually highly denormalized views.
+We can see CQRS walking alongside the Event Sourcing pattern where the source of events is the write model and is the official source of information. As per the read model, it materializes the views of the data. These are usually highly [denormalized](https://github.com/pragyaasapkota/System-Design-Concepts/tree/master/Denormalization) views.
 
 ## Advantages of CQRS
 
