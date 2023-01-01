@@ -8,7 +8,7 @@ CQRS goes on with a theory of separating commands and queries that performs diff
 
 ## CQRS with Event Sourcing
 
-We can see CQRS walking alongside the Event Sourcing pattern where the source of events is the write model and is the official source of information. As per the read model, it materializes the views of the data. These are usually highly [denormalized](https://github.com/pragyaasapkota/System-Design-Concepts/tree/master/Denormalization) views.
+We can see CQRS walking alongside the [Event Sourcing](https://github.com/pragyaasapkota/System-Design-Concepts/tree/master/Event%20Sourcing) pattern where the source of events is the write model and is the official source of information. As per the read model, it materializes the views of the data. These are usually highly [denormalized](https://github.com/pragyaasapkota/System-Design-Concepts/tree/master/Denormalization) views.
 
 ## Advantages of CQRS
 
@@ -42,6 +42,6 @@ There are some use cases where CQRS might be the best option to go for. Let’s 
 
 - If the system has the chance to evolve somehow. There can be multiple versions of the model or the business rules change regularly in the system.
 
-- If you are sure to integrate your system with others when working with event sourcing. In this case, the failure of one subsystem has no impact on the availability of others.
+- If you are sure to integrate your system with others when working with [event sourcing](https://github.com/pragyaasapkota/System-Design-Concepts/tree/master/Event%20Sourcing). In this case, the failure of one subsystem has no impact on the availability of others.
 
 - If the data reads performance and data writes performance needs to be adjusted separately.

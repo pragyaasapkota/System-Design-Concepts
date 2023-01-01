@@ -26,7 +26,7 @@ There are numerous ways for implementing EDA in your system depending upon your 
 
 - [Publish-Subscribe](https://github.com/aygarp-modsiw/System-Design-Concepts/tree/master/Messaging%20and%20Pub-Sub)
 
-- Event Sourcing
+- [Event Sourcing](https://github.com/pragyaasapkota/System-Design-Concepts/tree/master/Event%20Sourcing)
 
 - [Common and Query Responsibility Segregation (CQRS)](https://github.com/aygarp-modsiw/System-Design-Concepts/tree/master/CQRS)
 
