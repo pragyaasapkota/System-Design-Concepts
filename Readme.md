@@ -197,6 +197,12 @@ If you wish to open these in a new tab, Press `CTRL+click`
 <a href="https://github.com/pragyaasapkota/System-Design-Concepts/tree/master/Denormalization"> Denormalization </a>
 </td>
 </tr>
+<tr>
+<td> 30. </td>
+<td>
+<a href="https://github.com/pragyaasapkota/System-Design-Concepts/tree/master/Event%20Sourcing"> Event Sourcing </a>
+</td>
+</tr>
 </tbody>
 </table>
 
