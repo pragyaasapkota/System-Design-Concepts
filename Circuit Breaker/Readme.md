@@ -12,7 +12,7 @@ Software systems make remote calls to the software running in different processe
 
 There are three states in circuit breaker which are individually explained below: -
 
-! [Circuit Breaker States](https://miro.medium.com/max/720/1*3uliO6TG3Y8C3OC0C-L0ow.webp)
+![Circuit Breaker States](https://miro.medium.com/max/720/1*3uliO6TG3Y8C3OC0C-L0ow.webp)
 
 ### 1. Closed
 
