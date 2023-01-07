@@ -8,7 +8,7 @@ Let’s get ourselves familiar with some of these protocols.
 
 ### 1. Internet Protocol (IP)
 
-The first one for us to discuss is Internet Protocol (IP) which is the fundamental layer of protocols. This tells us how to implement communication across the internet networks.
+The first one for us to discuss is [Internet Protocol](https://github.com/pragyaasapkota/System-Design-Concepts/tree/master/Internet%20Protocol) (IP) which is the fundamental layer of protocols. This tells us how to implement communication across the internet networks.
 
 Under this protocol, the data are transmitted in packets — small bundles of information (2¹⁶ bytes). There are two components in each packet: -
 
@@ -18,7 +18,7 @@ b) The Data
 
 The header holds the metadata about the packet where it states the IP address of the source and the destination.
 
-NOTE: An IP address is a numeric label each device gets when connected to a computer network. It consists of two addresses — Private and Public with two versions — IPv6 which is getting widely used since IPv4 is running out of numerical addresses.
+**NOTE**: An [IP address](https://github.com/pragyaasapkota/System-Design-Concepts/tree/master/Internet%20Protocol) is a numeric label each device gets when connected to a computer network. It consists of two addresses — Private and Public with two versions — IPv6 which is getting widely used since IPv4 is running out of numerical addresses.
 
 ### 2. Transmission Control Protocol (TCP)
 
