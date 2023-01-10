@@ -18,7 +18,7 @@ b) The Data
 
 The header holds the metadata about the packet where it states the IP address of the source and the destination.
 
-**NOTE**: An [IP address](https://github.com/pragyaasapkota/System-Design-Concepts/tree/master/Internet%20Protocol) is a numeric label each device gets when connected to a computer network. It consists of two addresses — Private and Public with two versions — IPv6 which is getting widely used since IPv4 is running out of numerical addresses.
+**NOTE**: An [IP address](https://github.com/pragyaasapkota/System-Design-Concepts/tree/master/Internet%20Protocol) is a numeric label each device gets when connected to a computer network. It consists of two addresses — Private and Public with [two versions](https://github.com/pragyaasapkota/System-Design-Concepts/tree/master/IPv4%20Vs.%20IPv6) — IPv6 which is getting widely used since IPv4 is running out of numerical addresses.
 
 ### 2. Transmission Control Protocol (TCP)
 

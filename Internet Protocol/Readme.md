@@ -38,7 +38,7 @@ Finally, we have reached a Dynamic IP address where the IP address can be change
 
 ## Versions of IP addresses
 
-There are two versions of IP addresses to date.
+There are [two versions](https://github.com/pragyaasapkota/System-Design-Concepts/tree/master/IPv4%20Vs.%20IPv6) of IP addresses to date.
 
 ### IPv4
 
