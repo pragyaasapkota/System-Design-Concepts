@@ -221,6 +221,12 @@ If you wish to open these in a new tab, Press `CTRL+click`
 <a href="https://github.com/pragyaasapkota/System-Design-Concepts/tree/master/IPv4%20Vs.%20IPv6"> IPv4 Vs. IPv6 </a>
 </td>
 </tr>
+<tr>
+<td> 34. </td>
+<td>
+<a href="https://github.com/pragyaasapkota/System-Design-Concepts/tree/master/OSI%20Model"> OSI Model </a>
+</td>
+</tr>
 </tbody>
 </table>
 
