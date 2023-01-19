@@ -233,6 +233,12 @@ If you wish to open these in a new tab, Press `CTRL+click`
 <a href="https://github.com/pragyaasapkota/System-Design-Concepts/tree/master/Content%20Delivery%20Network%20(CDN)"> Content Delivery Network (CDN) </a>
 </td>
 </tr>
+<tr>
+<td> 36. </td>
+<td>
+<a href="https://github.com/pragyaasapkota/System-Design-Concepts/tree/master/Domain%20Name%20System%20(DNS)"> Domain Name System (DNS) </a>
+</td>
+</tr>
 </tbody>
 </table>
 
