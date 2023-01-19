@@ -14,7 +14,7 @@ There are seven layers in the OSI model. These layers have broken functionality 
 
 The application layer directly interacts with the data from the user and provides services to the user. It supports user applications like software for file transfers, database access, emails, and web browsers. Every message inside the OSI model enters and exits via the application layer. However, client software applications are not included in this layer but use protocols and data manipulation for the data from the user so that a valid result is received.
 
-The protocols embedded in this layer are HTTP (Hyper Text Transfer Protocol), FTP (File Transfer Protocol), DNS (Domain Name System), and SMTP (Simple Mail Transfer Protocol) as well.
+The protocols embedded in this layer are HTTP (Hyper Text Transfer Protocol), FTP (File Transfer Protocol), [DNS](<https://github.com/pragyaasapkota/System-Design-Concepts/tree/master/Domain%20Name%20System%20(DNS)>) (Domain Name System), and SMTP (Simple Mail Transfer Protocol) as well.
 
 ### Layer — 6 [Presentation Layer]
 
