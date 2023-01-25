@@ -245,6 +245,12 @@ If you wish to open these in a new tab, Press `CTRL+click`
 <a href="https://github.com/pragyaasapkota/System-Design-Concepts/tree/master/Clustering"> Clustering </a>
 </td>
 </tr>
+<tr>
+<td> 38. </td>
+<td>
+<a href="https://github.com/pragyaasapkota/System-Design-Concepts/tree/master/Quadtrees"> Quadtrees </a>
+</td>
+</tr>
 </tbody>
 </table>
 
