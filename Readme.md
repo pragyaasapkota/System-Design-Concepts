@@ -251,6 +251,12 @@ If you wish to open these in a new tab, Press `CTRL+click`
 <a href="https://github.com/pragyaasapkota/System-Design-Concepts/tree/master/Quadtrees"> Quadtrees </a>
 </td>
 </tr>
+<tr>
+<td> 39. </td>
+<td>
+<a href="https://github.com/pragyaasapkota/System-Design-Concepts/tree/master/Geohashing"> Geohashing: Encoding the location coordinates </a>
+</td>
+</tr>
 </tbody>
 </table>
 
