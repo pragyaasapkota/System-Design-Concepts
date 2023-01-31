@@ -257,6 +257,12 @@ If you wish to open these in a new tab, Press `CTRL+click`
 <a href="https://github.com/pragyaasapkota/System-Design-Concepts/tree/master/Geohashing"> Geohashing: Encoding the location coordinates </a>
 </td>
 </tr>
+<tr>
+<td> 40. </td>
+<td>
+<a href="https://github.com/pragyaasapkota/System-Design-Concepts/tree/master/Disaster%20Recovery"> Disaster Recovery </a>
+</td>
+</tr>
 </tbody>
 </table>
 
