@@ -263,6 +263,12 @@ If you wish to open these in a new tab, Press `CTRL+click`
 <a href="https://github.com/pragyaasapkota/System-Design-Concepts/tree/master/Disaster%20Recovery"> Disaster Recovery </a>
 </td>
 </tr>
+<tr>
+<td> 41. </td>
+<td>
+<a href="https://github.com/pragyaasapkota/System-Design-Concepts/tree/master/Monoliths"> Monoliths </a>
+</td>
+</tr>
 </tbody>
 </table>
 
