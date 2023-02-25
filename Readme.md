@@ -128,7 +128,7 @@ If you wish to open these in a new tab, Press `CTRL+click`
                 <a href="https://github.com/pragyaasapkota/System-Design-Concepts/tree/master/Databases/Database%20Indexes"> Database Indexes </a>
             </li>
             <li>
-                <a href="https://github.com/pragyaasapkota/System-Design-Concepts/tree/master/Databases/Database%20federation"> Database Federation </a>
+                <a href="https://github.com/pragyaasapkota/System-Design-Concepts/tree/master/Databases/Database%20Federation"> Database Federation </a>
             </li>
         </ul>
     </a>
