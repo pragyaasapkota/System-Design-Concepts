@@ -12,6 +12,7 @@ If you wish to open these in a new tab, Press `CTRL+click`
 | 2.   | [Non-relational Database](https://github.com/pragyaasapkota/System-Design-Concepts/tree/master/Databases/Non-relational-Database)                                               |
 | 3.   | [Data Indexing, Replication, and Sharding](https://github.com/pragyaasapkota/System-Design-Concepts/tree/master/Databases/Data%20Indexing%2C%20Replication%2C%20and%20Sharding) |
 | 4.   | [Database Indexes](https://github.com/pragyaasapkota/System-Design-Concepts/tree/master/Databases/Database%20Indexes)                                                           |
+| 5.   | [Database Federation](https://github.com/pragyaasapkota/System-Design-Concepts/tree/master/Databases/Database%20Federation)                                                     |
 
 Thank you!!
 
