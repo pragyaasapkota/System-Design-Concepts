@@ -13,6 +13,7 @@ If you wish to open these in a new tab, Press `CTRL+click`
 | 3.   | [Data Indexing, Replication, and Sharding](https://github.com/pragyaasapkota/System-Design-Concepts/tree/master/Databases/Data%20Indexing%2C%20Replication%2C%20and%20Sharding) |
 | 4.   | [Database Indexes](https://github.com/pragyaasapkota/System-Design-Concepts/tree/master/Databases/Database%20Indexes)                                                           |
 | 5.   | [Database Federation](https://github.com/pragyaasapkota/System-Design-Concepts/tree/master/Databases/Database%20Federation)                                                     |
+| 6.   | [Database Replication](https://github.com/pragyaasapkota/System-Design-Concepts/tree/master/Databases/Database%20Replication)                                                   |
 
 Thank you!!
 
