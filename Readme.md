@@ -299,6 +299,12 @@ If you wish to open these in a new tab, Press `CTRL+click`
 <a href="https://github.com/pragyaasapkota/System-Design-Concepts/tree/master/Service%20Discovery"> Service Discovery </a>
 </td>
 </tr>
+<tr>
+<td> 44. </td>
+<td>
+<a href="https://github.com/pragyaasapkota/System-Design-Concepts/tree/master/N-Tier%20Architecture"> N-Tier Architecture </a>
+</td>
+</tr>
 </tbody>
 </table>
 
