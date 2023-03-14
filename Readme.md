@@ -305,6 +305,12 @@ If you wish to open these in a new tab, Press `CTRL+click`
 <a href="https://github.com/pragyaasapkota/System-Design-Concepts/tree/master/N-Tier%20Architecture"> N-Tier Architecture </a>
 </td>
 </tr>
+<tr>
+<td> 45. </td>
+<td>
+<a href="https://github.com/pragyaasapkota/System-Design-Concepts/tree/master/Message%20Brokers"> Message Brokers </a>
+</td>
+</tr>
 </tbody>
 </table>
 
