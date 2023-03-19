@@ -12,7 +12,7 @@ However, if the modular monoliths are implemented correctly, it helps lessen the
 
 ## Distributed Monolith
 
-Moving on, there is distributed monolith that resembles the microservice architecture in many ways. But the difference is that the monolithic application is tightly coupled. Choosing microservices over monoliths is better but when we might get the monoliths while we still go for the microservices.
+Moving on, there is distributed monolith that resembles the microservice architecture in many ways. But the difference is that the monolithic application is tightly coupled. Choosing [microservices](https://github.com/pragyaasapkota/System-Design-Concepts/tree/master/Microservices) over monoliths is better but when we might get the monoliths while we still go for the [microservices](https://github.com/pragyaasapkota/System-Design-Concepts/tree/master/Microservices).
 
 Let’s see some ways we know that our microservice is the distributed monolith.
 
