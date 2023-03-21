@@ -317,6 +317,12 @@ If you wish to open these in a new tab, Press `CTRL+click`
 <a href="https://github.com/pragyaasapkota/System-Design-Concepts/tree/master/Transactions"> Transactions </a>
 </td>
 </tr>
+<tr>
+<td> 47. </td>
+<td>
+<a href="https://github.com/pragyaasapkota/System-Design-Concepts/tree/master/Distributed%20Transactions"> Distributed Transactions </a>
+</td>
+</tr>
 </tbody>
 </table>
 
