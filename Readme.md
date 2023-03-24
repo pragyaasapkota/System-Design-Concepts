@@ -323,6 +323,18 @@ If you wish to open these in a new tab, Press `CTRL+click`
 <a href="https://github.com/pragyaasapkota/System-Design-Concepts/tree/master/Distributed%20Transactions"> Distributed Transactions </a>
 </td>
 </tr>
+<tr>
+<td> 48. </td>
+<td>
+<a href="https://github.com/pragyaasapkota/System-Design-Concepts/tree/master/Rate%20Limiting"> Rate Limiting </a>
+</td>
+</tr>
+<tr>
+<td> 49. </td>
+<td>
+<a href="https://github.com/pragyaasapkota/System-Design-Concepts/tree/master/Architectural%20patterns"> Architectural Patterns </a>
+</td>
+</tr>
 </tbody>
 </table>
 
