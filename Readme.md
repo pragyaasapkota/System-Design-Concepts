@@ -326,13 +326,19 @@ If you wish to open these in a new tab, Press `CTRL+click`
 <tr>
 <td> 48. </td>
 <td>
-<a href="https://github.com/pragyaasapkota/System-Design-Concepts/tree/master/Rate%20Limiting"> Rate Limiting </a>
+<a href="https://github.com/pragyaasapkota/System-Design-Concepts/tree/master/Architectural%20patterns"> Architectural Patterns </a>
 </td>
 </tr>
 <tr>
 <td> 49. </td>
 <td>
-<a href="https://github.com/pragyaasapkota/System-Design-Concepts/tree/master/Architectural%20patterns"> Architectural Patterns </a>
+<a href="https://github.com/pragyaasapkota/System-Design-Concepts/tree/master/Rate%20Limiting"> Rate Limiting </a>
+</td>
+</tr>
+<tr>
+<td> 50. </td>
+<td>
+<a href="https://github.com/pragyaasapkota/System-Design-Concepts/tree/master/Rate%20Limiting%20in%20Distributed%20Systems"> Rate Limiting in Distributed Systems </a>
 </td>
 </tr>
 </tbody>
