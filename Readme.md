@@ -341,6 +341,12 @@ If you wish to open these in a new tab, Press `CTRL+click`
 <a href="https://github.com/pragyaasapkota/System-Design-Concepts/tree/master/Rate%20Limiting%20in%20Distributed%20Systems"> Rate Limiting in Distributed Systems </a>
 </td>
 </tr>
+<tr>
+<td> 51. </td>
+<td>
+<a href="https://github.com/pragyaasapkota/System-Design-Concepts/tree/master/Open%20Authorization%20(OAuth%202.0)"> Open Authorization (OAuth 2.0) </a>
+</td>
+</tr>
 </tbody>
 </table>
 
