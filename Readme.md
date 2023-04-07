@@ -347,6 +347,12 @@ If you wish to open these in a new tab, Press `CTRL+click`
 <a href="https://github.com/pragyaasapkota/System-Design-Concepts/tree/master/Open%20Authorization%20(OAuth%202.0)"> Open Authorization (OAuth 2.0) </a>
 </td>
 </tr>
+<tr>
+<td> 52. </td>
+<td>
+<a href="https://github.com/pragyaasapkota/System-Design-Concepts/tree/master/OpenID%20Connect"> OpenID Connect </a>
+</td>
+</tr>
 </tbody>
 </table>
 
