@@ -353,6 +353,12 @@ If you wish to open these in a new tab, Press `CTRL+click`
 <a href="https://github.com/pragyaasapkota/System-Design-Concepts/tree/master/OpenID%20Connect"> OpenID Connect </a>
 </td>
 </tr>
+<tr>
+<td> 53. </td>
+<td>
+<a href="https://github.com/pragyaasapkota/System-Design-Concepts/tree/master/Single%20Sign%20On%20(SSO)"> Single Sign On (SSO) </a>
+</td>
+</tr>
 </tbody>
 </table>
 
