@@ -365,6 +365,12 @@ If you wish to open these in a new tab, Press `CTRL+click`
 <a href="https://github.com/pragyaasapkota/System-Design-Concepts/tree/master/SAML%20Vs.%20OAuth%202.0%20and%20OpenID%20Connect"> Security Assertion Markup Language (SAML) Vs. OAuth 2.0 and OpenID Connect (OIDC) </a>
 </td>
 </tr>
+<tr>
+<td> 55. </td>
+<td>
+<a href="https://github.com/pragyaasapkota/System-Design-Concepts/tree/master/Redundancy"> Redundancy </a>
+</td>
+</tr>
 </tbody>
 </table>
 

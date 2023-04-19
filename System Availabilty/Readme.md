@@ -24,8 +24,8 @@ We can now say that SLA plays an important role while you design a highly availa
 
 ## Designing HA
 
-We can design a highly available system by reducing the ‘single points of failure. They are those points in the system that can lead to unavailability. Here, we design ‘redundancy’ in the system which leads to high availability. We make some alternatives to the element that might be critical later.
+We can design a highly available system by reducing the ‘single points of failure. They are those points in the system that can lead to unavailability. Here, we design ‘[redundancy](https://github.com/pragyaasapkota/System-Design-Concepts/tree/master/Redundancy)’ in the system which leads to high availability. We make some alternatives to the element that might be critical later.
 
-To understand this more clearly, let’s imagine a system that requires authentication. If there is only one authentication service and back end that somehow fails, your system will collapse with the single point of failure but if there were two or more services, the system would stay. This more service means we have added redundancy.
+To understand this more clearly, let’s imagine a system that requires authentication. If there is only one authentication service and back end that somehow fails, your system will collapse with the single point of failure but if there were two or more services, the system would stay. This more service means we have added [redundancy](https://github.com/pragyaasapkota/System-Design-Concepts/tree/master/Redundancy).
 
 For this, we need to understand and de-compose the system into parts and map out the ones that might cause single points of failure. We can also know which cannot tolerate such failure and the ones that can. The latter is vital to know since designing HA might be expensive in terms of time, money, and resources.
