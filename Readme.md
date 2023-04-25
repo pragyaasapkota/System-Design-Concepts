@@ -371,6 +371,12 @@ If you wish to open these in a new tab, Press `CTRL+click`
 <a href="https://github.com/pragyaasapkota/System-Design-Concepts/tree/master/Redundancy"> Redundancy </a>
 </td>
 </tr>
+<tr>
+<td> 56. </td>
+<td>
+<a href="https://github.com/pragyaasapkota/System-Design-Concepts/tree/master/Redundancy%20and%20Reliability"> Redundancy and Reliability </a>
+</td>
+</tr>
 </tbody>
 </table>
 
