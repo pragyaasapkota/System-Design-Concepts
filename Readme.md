@@ -1,10 +1,10 @@
 # System Design
 
-![System Design](/System%20Design%20Concepts.jpg)
+![System Design](https://github.com/pragyaasapkota/Portfolio/raw/master/Images/System%20Design%20Concepts.jpg)
 
-System design is the process of defining elements of a system like modules, architecture, components and their interfaces and data for a system based on the specified requirements.
+System design defines system elements like modules, architecture, components, and their interfaces and data for a system based on the specified requirements.
 
-This is a index for the concepts of system.
+This is an index for the concepts of the system.
 
 If you wish to open these in a new tab, Press `CTRL+click`
 
