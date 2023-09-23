@@ -403,6 +403,12 @@ If you wish to open these in a new tab, Press `CTRL+click`
 <a href="https://github.com/pragyaasapkota/System-Design-Concepts/tree/master/SSL,%20TLS,%20and%20mTLS"> SSL, TLS, and mTLS </a>
 </td>
 </tr>
+<tr>
+<td> 61. </td>
+<td>
+<a href="https://github.com/pragyaasapkota/System-Design-Concepts/tree/master/Consensus%20Algorithms"> Consensus Algorithms: Paxos and Raft </a>
+</td>
+</tr>
 </tbody>
 </table>
 
