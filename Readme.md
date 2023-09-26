@@ -409,6 +409,12 @@ If you wish to open these in a new tab, Press `CTRL+click`
 <a href="https://github.com/pragyaasapkota/System-Design-Concepts/tree/master/Consensus%20Algorithms"> Consensus Algorithms: Paxos and Raft </a>
 </td>
 </tr>
+<tr>
+<td> 62. </td>
+<td>
+<a href="https://github.com/pragyaasapkota/System-Design-Concepts/tree/master/Lambda%20Architecture"> Lambda Architecture </a>
+</td>
+</tr>
 </tbody>
 </table>
 
