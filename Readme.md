@@ -1,7 +1,5 @@
 # System Design
 
-![System Design](https://github.com/pragyaasapkota/Portfolio/raw/master/Images/System%20Design%20Concepts.jpg)
-
 System design defines system elements like modules, architecture, components, and their interfaces and data for a system based on the specified requirements.
 
 This is an index for the concepts of the system.
@@ -419,6 +417,12 @@ If you wish to open these in a new tab, Press `CTRL+click`
 <td> 62. </td>
 <td>
 <a href="https://github.com/pragyaasapkota/System-Design-Concepts/tree/master/Canary%20Release"> Canary Release </a>
+</td>
+</tr>
+<tr>
+<td> 63. </td>
+<td>
+<a href="https://github.com/pragyaasapkota/System-Design-Concepts/tree/master/Chaos%20Engineering"> Chaos Engineering </a>
 </td>
 </tr>
 </tbody>
