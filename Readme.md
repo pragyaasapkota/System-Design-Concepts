@@ -425,6 +425,12 @@ If you wish to open these in a new tab, Press `CTRL+click`
 <a href="https://github.com/pragyaasapkota/System-Design-Concepts/tree/master/Chaos%20Engineering"> Chaos Engineering </a>
 </td>
 </tr>
+<tr>
+<td> 63. </td>
+<td>
+<a href="https://github.com/pragyaasapkota/System-Design-Concepts/tree/master/Multi-Tenancy%20Architecture"> Multi-Tenancy Architecture </a>
+</td>
+</tr>
 </tbody>
 </table>
 
