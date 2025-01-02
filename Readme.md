@@ -431,6 +431,12 @@ If you wish to open these in a new tab, Press `CTRL+click`
 <a href="https://github.com/pragyaasapkota/System-Design-Concepts/tree/master/Multi-Tenancy%20Architecture"> Multi-Tenancy Architecture </a>
 </td>
 </tr>
+<tr>
+<td> 64. </td>
+<td>
+<a href="https://github.com/pragyaasapkota/System-Design-Concepts/tree/master/Telemetry%20and%20Tracing"> Telemetry and Tracing </a>
+</td>
+</tr>
 </tbody>
 </table>
 
